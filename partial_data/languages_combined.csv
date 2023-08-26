@@ -1,0 +1,88 @@
+admin2_name,primary_language,primary_language_share,secondary_language,secondary_language_share,tertiary_language,tertiary_language_share,literacy_all,literacy_male,literacy_female
+PH012800000,Ilocano,0.981,Tagalog,0.01,Isnag,0.005,0.985,0.986,0.984
+PH012900000,Ilocano,0.93,Other languages,0.033,Kankanaey,0.022,0.988,0.99,0.987
+PH013300000,Ilocano,0.91,Tagalog,0.049,Kankanaey,0.023,0.988,0.989,0.987
+PH015500000,Pangasinan/Panggalato,0.447,Ilocano,0.442,Tagalog,0.088,0.992,0.992,0.992
+PH020900000,Ivatan,0.945,Tagalog,0.048,Ilocano,0.004,0.989,0.992,0.986
+PH021500000,Ilocano,0.701,Itawis,0.185,Ibanag,0.06,0.943,0.937,0.949
+PH023100000,Ilocano,0.704,Ibanag,0.123,Tagalog,0.12,0.979,0.978,0.981
+PH025000000,Ilocano,0.657,Kalanguya,0.104,Tagalog,0.089,0.971,0.972,0.97
+PH025700000,Ilocano,0.767,Other languages,0.071,Tagalog,0.05,0.969,0.968,0.97
+PH030800000,Tagalog,0.97,Kapampangan,0.017,Bisaya/Binisaya,0.004,0.982,0.983,0.982
+PH031400000,Tagalog,0.986,Bisaya/Binisaya,0.005,Bikol,0.002,0.993,0.993,0.993
+PH034900000,Tagalog,0.831,Ilocano,0.16,Kapampangan,0.002,0.99,0.99,0.99
+PH035400000,Kapampangan,0.786,Tagalog,0.19,Bisaya/Binisaya,0.007,0.99,0.99,0.99
+PH036900000,Kapampangan,0.406,Ilocano,0.397,Tagalog,0.184,0.987,0.987,0.988
+PH037100000,Tagalog,0.674,Zambal,0.15,Ilocano,0.149,0.985,0.985,0.986
+PH037700000,Tagalog,0.707,Ilocano,0.261,Bikol,0.008,0.986,0.986,0.987
+PH041000000,Tagalog,0.994,Bisaya/Binisaya,0.002,Bikol,0.001,0.986,0.986,0.986
+PH042100000,Tagalog,0.972,Bisaya/Binisaya,0.008,Chavacano,0.004,0.993,0.993,0.993
+PH043400000,Tagalog,0.985,Bikol,0.005,Bisaya/Binisaya,0.004,0.993,0.993,0.994
+PH045600000,Tagalog,0.965,Bisaya/Binisaya,0.022,Bikol,0.006,0.988,0.987,0.988
+PH045800000,Tagalog,0.973,Bisaya/Binisaya,0.009,Bikol,0.005,0.983,0.983,0.983
+PH050500000,Bikol,0.98,Tagalog,0.018,Bisaya/Binisaya,0.001,0.988,0.988,0.989
+PH051600000,Tagalog,0.652,Bikol,0.345,Other languages,0.002,0.982,0.982,0.983
+PH051700000,Bikol,0.948,Tagalog,0.05,Other languages,0.001,0.986,0.986,0.987
+PH052000000,Bikol,0.99,Tagalog,0.009,Adasen,0.0,0.989,0.988,0.99
+PH054100000,Masbateño/Masbatenon,0.623,Cebuano,0.268,Bisaya/Binisaya,0.053,0.965,0.961,0.968
+PH056200000,Bikol,0.989,Tagalog,0.009,Bisaya/Binisaya,0.001,0.986,0.986,0.987
+PH060400000,Akeanon,0.956,Tagalog,0.014,Hiligaynon Ilonggo,0.008,0.977,0.975,0.98
+PH060600000,Karay-a,0.929,Cuyonon/Cuyonen,0.038,Cebuano,0.01,0.968,0.965,0.972
+PH061900000,Capizeño,0.961,Hiligaynon Ilonggo,0.029,Karay-a,0.003,0.976,0.974,0.978
+PH063000000,Hiligaynon Ilonggo,0.788,Karay-a,0.204,Bisaya/Binisaya,0.002,0.975,0.974,0.977
+PH067900000,Hiligaynon Ilonggo,0.926,Karay-a,0.07,Cebuano,0.001,0.978,0.977,0.979
+PH071200000,Cebuano,0.73,Bisaya/Binisaya,0.264,Tagalog,0.002,0.978,0.976,0.98
+PH072200000,Cebuano,0.876,Bisaya/Binisaya,0.117,Tagalog,0.002,0.983,0.983,0.983
+PH076100000,Bisaya/Binisaya,0.939,Cebuano,0.053,English,0.004,0.981,0.982,0.981
+PH082600000,Waray,0.99,Cebuano,0.004,Tagalog,0.003,0.969,0.962,0.977
+PH083700000,Waray,0.489,Bisaya/Binisaya,0.446,Cebuano,0.059,0.971,0.966,0.977
+PH084800000,Waray,0.933,Cebuano,0.026,Other languages,0.021,0.955,0.946,0.964
+PH086000000,Waray,0.93,Bisaya/Binisaya,0.037,Cebuano,0.029,0.941,0.927,0.956
+PH086400000,Bisaya/Binisaya,0.975,Cebuano,0.022,Tagalog,0.002,0.983,0.98,0.986
+PH087800000,Bisaya/Binisaya,0.57,Waray,0.38,Cebuano,0.044,0.964,0.957,0.97
+PH097200000,Bisaya/Binisaya,0.77,Subanen/Subanon/Subanun,0.102,Cebuano,0.063,0.941,0.94,0.942
+PH097300000,Bisaya/Binisaya,0.421,Chavacano,0.202,Cebuano,0.135,0.948,0.948,0.947
+PH098300000,Bisaya/Binisaya,0.596,Cebuano,0.112,Hiligaynon Ilonggo,0.083,0.953,0.955,0.952
+PH099700000,Tausug,0.303,Chavacano,0.288,Bisaya/Binisaya,0.145,0.898,0.904,0.893
+PH101300000,Bisaya/Binisaya,0.484,Cebuano,0.322,Hiligaynon Ilonggo,0.065,0.953,0.949,0.958
+PH101800000,Bisaya/Binisaya,0.767,Cebuano,0.222,Kamiguin,0.003,0.994,0.991,0.996
+PH103500000,Bisaya/Binisaya,0.526,Maranao,0.259,Cebuano,0.204,0.95,0.948,0.953
+PH104200000,Bisaya/Binisaya,0.846,Cebuano,0.141,Subanen/Subanon/Subanun,0.008,0.938,0.926,0.951
+PH104300000,Bisaya/Binisaya,0.899,Cebuano,0.079,Tagalog,0.006,0.986,0.984,0.988
+PH112300000,Bisaya/Binisaya,0.742,Cebuano,0.149,Hiligaynon Ilonggo,0.03,0.971,0.97,0.972
+PH112400000,Bisaya/Binisaya,0.679,Cebuano,0.153,B'laan/Blaan language group,0.03,0.982,0.982,0.983
+PH112500000,Bisaya/Binisaya,0.49,Mandaya,0.224,Davaweño,0.142,0.96,0.958,0.963
+PH118200000,Bisaya/Binisaya,0.697,Cebuano,0.196,Mansaka,0.034,0.977,0.975,0.979
+PH118600000,Bisaya/Binisaya,0.679,Cebuano,0.153,B'laan/Blaan language group,0.03,0.834,0.829,0.839
+PH124700000,Hiligaynon Ilonggo,0.321,Maguindanao,0.22,Cebuano,0.213,0.946,0.948,0.943
+PH126300000,Hiligaynon Ilonggo,0.388,Cebuano,0.276,Bisaya/Binisaya,0.097,0.96,0.961,0.959
+PH126500000,Hiligaynon Ilonggo,0.415,Maguindanao,0.241,Ilocano,0.128,0.921,0.923,0.919
+PH128000000,Cebuano,0.306,B'laan/Blaan language group,0.219,Bisaya/Binisaya,0.183,0.901,0.899,0.902
+PH129800000,Maguindanao,0.565,Tagalog,0.129,Iranun,0.116,0.931,0.935,0.928
+PH133900000,Tagalog,0.951,Bisaya/Binisaya,0.013,Ilocano,0.006,0.988,0.988,0.987
+PH137400000,Tagalog,0.951,Bisaya/Binisaya,0.013,Ilocano,0.006,0.996,0.996,0.997
+PH137500000,Tagalog,0.951,Bisaya/Binisaya,0.013,Ilocano,0.006,0.986,0.985,0.986
+PH137600000,Tagalog,0.951,Bisaya/Binisaya,0.013,Ilocano,0.006,0.992,0.992,0.992
+PH140100000,Ilocano,0.739,Other languages,0.133,Masadiit,0.033,0.978,0.98,0.977
+PH141100000,Ilocano,0.39,Kankanaey,0.232,Tagalog,0.176,0.977,0.979,0.975
+PH142700000,Tuwali,0.349,Ayangan Ifugao,0.21,Ilocano,0.195,0.928,0.931,0.925
+PH143200000,Kalinga language group,0.552,Ilocano,0.407,Tagalog,0.013,0.933,0.937,0.929
+PH144400000,Kankanaey,0.433,Other languages,0.177,Bontok,0.151,0.938,0.952,0.924
+PH148100000,Ilocano,0.579,Isnag,0.29,Itawis,0.043,0.953,0.954,0.952
+PH150700000,Yakan,0.521,Tausug,0.211,Chavacano,0.077,0.801,0.809,0.792
+PH153600000,Maranao,0.924,Hiligaynon Ilonggo,0.027,Bisaya/Binisaya,0.019,0.86,0.856,0.862
+PH153800000,Maguindanao,0.637,Iranun,0.171,Teduray,0.088,0.81,0.812,0.807
+PH156600000,Tausug,0.906,Unspecified Sama language,0.073,Other languages,0.01,0.754,0.755,0.754
+PH157000000,Unspecified Sama language,0.521,Tausug,0.375,Jama Mapun,0.057,0.746,0.747,0.745
+PH160200000,Bisaya/Binisaya,0.844,Cebuano,0.104,Other languages,0.013,0.984,0.981,0.986
+PH160300000,Bisaya/Binisaya,0.584,Cebuano,0.177,Manobo,0.128,0.966,0.964,0.969
+PH166700000,Surigaonon,0.557,Bisaya/Binisaya,0.389,Cebuano,0.032,0.983,0.98,0.985
+PH166800000,Bisaya/Binisaya,0.381,Surigaonon,0.285,Other languages,0.162,0.975,0.972,0.978
+PH168500000,Bisaya/Binisaya,0.665,Cebuano,0.219,Surigaonon,0.084,0.984,0.983,0.985
+PH174000000,Tagalog,0.997,Bisaya/Binisaya,0.001,Adasen,0.0,0.987,0.987,0.988
+PH175100000,Tagalog,0.804,Bisaya/Binisaya,0.093,Ilocano,0.031,0.953,0.951,0.954
+PH175200000,Tagalog,0.863,Bisaya/Binisaya,0.069,Hanunuo,0.028,0.966,0.966,0.966
+PH175300000,Tagalog,0.483,Cuyonon/Cuyonen,0.164,Palawano language group,0.08,0.947,0.947,0.946
+PH175900000,Other languages,0.404,Romblomanon,0.245,Bisaya/Binisaya,0.12,0.979,0.979,0.978
+PH184500000,Hiligaynon Ilonggo,0.843,Cebuano,0.08,Bisaya/Binisaya,0.072,0.975,0.972,0.978
+PH184600000,Bisaya/Binisaya,0.811,Cebuano,0.15,Hiligaynon Ilonggo,0.03,0.949,0.942,0.955
